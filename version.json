@@ -1,0 +1,8 @@
+{
+  "latest_version_name": "0.1.5",
+  "latest_version_code": 5,
+  "apk_url": "https://files.catbox.moe/ane47d.apk",
+  "release_notes": "🎉 Mise à jour majeure !\n\n📺 Guide TV (EPG) en cache local\n• Sync XMLTV au premier lancement (30-60s)\n• EPG instantané sur les chaînes\n• Refresh quotidien automatique la nuit\n• Bouton manuel dans Settings → Mises à jour\n\n🐛 La box ne se met plus en veille pendant la lecture\n\n⚡ -90% des appels API au provider\n\n🛡️ Plus de bans 429 lors de la navigation rapide",
+  "min_supported_version_code": 1,
+  "force_update": false
+}
