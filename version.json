@@ -1,9 +1,8 @@
 {
-  "latest_version_name": "0.1.10",
-  "latest_version_code": 10,
-  "apk_url": "https://github.com/Televyn/release/releases/download/V0.1.10/televyn-0.1.10.apk",
-  "release_notes": "https://github.com/Televyn/release/releases/download/V0.1.9/televyn-0.1.9.apk",
-  "release_notes": "🐛 Fixes critiques\n\n✨ Bordure de sélection enfin visible (vraie bordure blanche 6dp)\n\n▶️ Boutons 'Continuer / Reprendre / Revoir / Supprimer' qui apparaissent maintenant aussi sur les fiches Films",
+  "latest_version_name": "0.1.12",
+  "latest_version_code": 12,
+  "apk_url": "https://github.com/Televyn/release/releases/download/V0.1.12/televyn-0.1.12.apk",
+  "release_notes": "🚀 Optimisations anti-ban + polish UX\n\n🛡️ Réduction des bans :\n- Hard close du stream précédent avant ouverture\n- Debounce 800ms sur changement de chaîne\n- Overlay Chargement pendant switch\n\n⚙️ Settings :\n- Suppression gestion utilisateur (déjà dans menu user)\n- Vue Mises à jour navigable\n- Carte Gérer en haut + plus petite",
   "min_supported_version_code": 1,
   "force_update": false
 }
