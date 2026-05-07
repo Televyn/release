@@ -1,8 +1,8 @@
 {
-  "latest_version_name": "0.1.7",
-  "latest_version_code": 7,
-  "apk_url": "https://github.com/Televyn/release/releases/download/V0.1.7/televyn-0.1.7.apk",
-  "release_notes": "🎯 Améliorations UX\n\n🔧 Fix navigation : le bouquet sélectionné est préservé au retour depuis une fiche\n\n✨ Visibilité du focus améliorée : double bordure + scale plus marqué\n\n📐 Grille Films/Séries : 6 colonnes au lieu de 5",
+  "latest_version_name": "0.1.8",
+  "latest_version_code": 8,
+  "apk_url": "https://github.com/Televyn/release/releases/download/V0.1.8/televyn-0.1.8.apk",
+  "release_notes": "🎯 Sprint UX 0.1.8 — 7 fixes\n\n🎬 Fin d'épisode : bouton 'Épisode suivant' 30s avant la fin, en bas à droite, click qui marche\n\n📚 Onglet 'Historique' en TOP des Films + Séries\n\n🐛 Fix scroll au changement de bouquet\n\n🐛 Fix Saison 0 → Saison 1 ou Spéciaux\n\n✨ Bordure focus plus voyante (halo + glow)",
   "min_supported_version_code": 1,
   "force_update": false
 }
