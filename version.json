@@ -1,8 +1,9 @@
 {
-  "latest_version_name": "0.1.8",
-  "latest_version_code": 8,
-  "apk_url": "https://github.com/Televyn/release/releases/download/V0.1.8/televyn-0.1.8.apk",
-  "release_notes": "🎯 Sprint UX 0.1.8 — 7 fixes\n\n🎬 Fin d'épisode : bouton 'Épisode suivant' 30s avant la fin, en bas à droite, click qui marche\n\n📚 Onglet 'Historique' en TOP des Films + Séries\n\n🐛 Fix scroll au changement de bouquet\n\n🐛 Fix Saison 0 → Saison 1 ou Spéciaux\n\n✨ Bordure focus plus voyante (halo + glow)",
+  "latest_version_name": "0.1.9",
+  "latest_version_code": 9,
+  "apk_url": "https://github.com/Televyn/release/releases/download/V0.1.9/televyn-0.1.9.apk",
+  "release_notes": "https://github.com/Televyn/release/releases/download/V0.1.9/televyn-0.1.9.apk",
+  "release_notes": "🎯 Sprint 0.1.9 — Polish UX\n\n✨ Bordure de sélection enfin visible (6dp blanche opaque)\n\n▶️ Bouton 'Continuer' sur fiches films/séries avec reprise exacte\n\n🗑️ Bouton 'Supprimer de l'historique' (films + séries avec confirmation)",
   "min_supported_version_code": 1,
   "force_update": false
 }
