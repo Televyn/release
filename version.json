@@ -1,7 +1,7 @@
 {
   "latest_version_name": "0.1.7",
   "latest_version_code": 7,
-  "apk_url": "https://github.com/televyn/release/releases/download/v0.1.7/televyn-0.1.7.apk",
+  "apk_url": "https://github.com/Televyn/release/releases/download/V0.1.7/televyn-0.1.7.apk",
   "release_notes": "🎯 Améliorations UX\n\n🔧 Fix navigation : le bouquet sélectionné est préservé au retour depuis une fiche\n\n✨ Visibilité du focus améliorée : double bordure + scale plus marqué\n\n📐 Grille Films/Séries : 6 colonnes au lieu de 5",
   "min_supported_version_code": 1,
   "force_update": false
