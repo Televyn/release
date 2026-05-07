@@ -1,9 +1,9 @@
 {
-  "latest_version_name": "0.1.9",
-  "latest_version_code": 9,
-  "apk_url": "https://github.com/Televyn/release/releases/download/V0.1.9/televyn-0.1.9.apk",
+  "latest_version_name": "0.1.10",
+  "latest_version_code": 10,
+  "apk_url": "https://github.com/Televyn/release/releases/download/V0.1.10/televyn-0.1.10.apk",
   "release_notes": "https://github.com/Televyn/release/releases/download/V0.1.9/televyn-0.1.9.apk",
-  "release_notes": "🎯 Sprint 0.1.9 — Polish UX\n\n✨ Bordure de sélection enfin visible (6dp blanche opaque)\n\n▶️ Bouton 'Continuer' sur fiches films/séries avec reprise exacte\n\n🗑️ Bouton 'Supprimer de l'historique' (films + séries avec confirmation)",
+  "release_notes": "🐛 Fixes critiques\n\n✨ Bordure de sélection enfin visible (vraie bordure blanche 6dp)\n\n▶️ Boutons 'Continuer / Reprendre / Revoir / Supprimer' qui apparaissent maintenant aussi sur les fiches Films",
   "min_supported_version_code": 1,
   "force_update": false
 }
