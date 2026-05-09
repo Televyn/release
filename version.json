@@ -1,8 +1,8 @@
 {
-  "latest_version_name": "0.1.12",
-  "latest_version_code": 12,
-  "apk_url": "https://github.com/Televyn/release/releases/download/V0.1.12/televyn-0.1.12.apk",
-  "release_notes": "🚀 Optimisations anti-ban + polish UX\n\n🛡️ Réduction des bans :\n- Hard close du stream précédent avant ouverture\n- Debounce 800ms sur changement de chaîne\n- Overlay Chargement pendant switch\n\n⚙️ Settings :\n- Suppression gestion utilisateur (déjà dans menu user)\n- Vue Mises à jour navigable\n- Carte Gérer en haut + plus petite",
+  "latest_version_name": "0.1.13",
+  "latest_version_code": 13,
+  "apk_url": "https://github.com/Televyn/release/releases/download/V0.1.13/televyn-0.1.13.apk",
+  "release_notes": "🐛 Hotfix + features\n\n🔧 Fixes : EPG passé visible, mojibake corrigé, pochettes nettes, cache prefetch, mismatch film acteur, épisodes 2 colonnes\n\n🆕 Features : casting sur séries, filmographie réalisateur cliquable, '+ Ajouter profil' repositionné",
   "min_supported_version_code": 1,
   "force_update": false
 }
