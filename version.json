@@ -1,8 +1,8 @@
 {
-  "latest_version_name": "1.0.1",
-  "latest_version_code": 16,
-  "apk_url": "https://github.com/Televyn/release/releases/download/V1.0.1/televyn-1.0.1.apk",
-  "release_notes": "latest_version_code: 16 + latest_version_name: 1.0.1 STABLE",
+  "latest_version_name": "1.0.2",
+  "latest_version_code": 17,
+  "apk_url": "https://github.com/Televyn/release/releases/download/V1.0.2/televyn-1.0.2.apk",
+  "release_notes": "🐛 Patch 1.0.2\n\n📺 Guide TV depuis player plein écran\n⭐ Favoris Live (long-press OK)\n🎬 Grille 6 cols\n✏️ Titres lisibles (pavé + lineHeight)\n⭐ Étoile favoris + badge Vu repositionné",
   "min_supported_version_code": 1,
   "force_update": false
 }
