@@ -1,8 +1,9 @@
 {
-  "latest_version_name": "1.0.5",
-  "latest_version_code": 20,
-  "apk_url": "https://github.com/Televyn/release/releases/download/V1.0.5/televyn-1.0.5.apk",
-  "release_notes": "✨ Refonte UX plein écran\n\n🎬 LIVE : ⬆️⬇️ zap, ⬅️ sidebar, OK pause, plus d'overlay surchargé\n🔙 Replay : ➡️ barre chronologique, ⬆️⬇️ programme préc/suiv, bouton retour LIVE\n🐛 Plus de flash barre au zap",
+  "latest_version_name": "1.0.6",
+  "latest_version_code": 21,
+  "apk_url": "https://github.com/Televyn/release/releases/download/V1.0.6/televyn-1.0.6.apk",
+  "release_notes": "https://github.com/Televyn/release/releases/download/V1.0.6/televyn-1.0.6.apk",
+  "release_notes": "🐛 Hotfix 1.0.5\n\n🔙 BACK plein écran préserve bouquet + focus\n🔙 BACK sidebar ferme bien l'overlay\n⚡ Plus de flash au zap (LIVE→LIVE)\n🎬 Vignettes épisodes plus grandes (2 cols)",
   "min_supported_version_code": 1,
   "force_update": false
 }
