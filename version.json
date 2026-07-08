@@ -1,8 +1,8 @@
 {
-  "latest_version_name": "1.0.7",
-  "latest_version_code": 22,
-  "apk_url": "https://github.com/Televyn/release/releases/download/V1.0.7/televyn-1.0.7.apk",
-  "release_notes": "🐛 Hotfix 1.0.6\n\n🔙 BACK plein écran : focus correct sur chaîne en cours\n⚡ Plus de flash menu entre les zaps",
+  "latest_version_name": "1.0.8",
+  "latest_version_code": 23,
+  "apk_url": "https://github.com/Televyn/release/releases/download/V1.0.8/televyn-1.0.8.apk",
+  "release_notes": "🎯 1.0.8\n\n🎮 Navigation télécommande fiabilisée :\n• Retour d'une fiche/lecture → focus sur la dernière sélection partout\n• GAUCHE remonte toujours d'un niveau (grilles, tri, liste chaînes)\n\n🎵 Codecs & lecture :\n• +5 décodeurs audio FFmpeg (AAC, PCM, AMR) — chaînes muettes débloquées\n• Flux TS/HLS mal muxés lisibles (fin des écrans noirs)\n• Reprise auto sur erreur + bouton « Ouvrir dans VLC »",
   "min_supported_version_code": 1,
   "force_update": false
 }
