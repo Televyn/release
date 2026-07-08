@@ -1,8 +1,8 @@
 {
-  "latest_version_name": "1.0.9",
-  "latest_version_code": 24,
-  "apk_url": "https://github.com/Televyn/release/releases/download/V1.0.9/televyn-1.0.9.apk",
-  "release_notes": "💡 1.0.9 — Idées de films\n\n⚡ Résultats instantanés (filtrage direct de votre catalogue)\n🖱️ Films cliquables → fiche directe, RETOUR revient sur les résultats\n🎯 Plus jamais de liste vide : filtres élargis automatiquement\n⭐ Option « Peu importe » pour la note\n👀 Filtre « déjà vu » fiabilisé",
+  "latest_version_name": "1.0.10",
+  "latest_version_code": 25,
+  "apk_url": "https://github.com/Televyn/release/releases/download/V1.0.10/televyn-1.0.10.apk",
+  "release_notes": "🚀 1.0.10\n\n⚡ Zapping et lancement des films plus rapides\n📅 NOUVEAU : Guide TV en grille (bouton « Guide » dans la section TV), replay ⟲ en un clic\n🎲 NOUVEAU : « Film au hasard » sur l'accueil\n⭐ Maintenir OK sur une pochette = favori (Films/Séries)\n🎭 Fiche série : séries similaires de votre playlist",
   "min_supported_version_code": 1,
   "force_update": false
 }
