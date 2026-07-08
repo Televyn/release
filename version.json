@@ -1,8 +1,8 @@
 {
-  "latest_version_name": "1.0.10",
-  "latest_version_code": 25,
-  "apk_url": "https://github.com/Televyn/release/releases/download/V1.0.10/televyn-1.0.10.apk",
-  "release_notes": "🚀 1.0.10\n\n⚡ Zapping et lancement des films plus rapides\n📅 NOUVEAU : Guide TV en grille (bouton « Guide » dans la section TV), replay ⟲ en un clic\n🎲 NOUVEAU : « Film au hasard » sur l'accueil\n⭐ Maintenir OK sur une pochette = favori (Films/Séries)\n🎭 Fiche série : séries similaires de votre playlist",
+  "latest_version_name": "1.0.11",
+  "latest_version_code": 26,
+  "apk_url": "https://github.com/Televyn/release/releases/download/V1.0.11/televyn-1.0.11.apk",
+  "release_notes": "🐛 Hotfix 1.0.11\n\n📺 Certaines séries affichaient une erreur JSON au lieu de la liste des épisodes — corrigé (toutes les variantes de réponses des fournisseurs sont acceptées)",
   "min_supported_version_code": 1,
   "force_update": false
 }
