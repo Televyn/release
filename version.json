@@ -1,8 +1,8 @@
 {
-  "latest_version_name": "1.0.13",
-  "latest_version_code": 28,
-  "apk_url": "https://github.com/Televyn/release/releases/download/V1.0.13/televyn-1.0.13.apk",
-  "release_notes": "🐛 Hotfix 1.0.13 — Bouquets dans le lecteur\n\n🎨 Nom du bouquet sélectionné à nouveau lisible\n🎮 GAUCHE depuis les chaînes revient sur le bouquet où vous étiez",
+  "latest_version_name": "1.0.14",
+  "latest_version_code": 29,
+  "apk_url": "https://github.com/Televyn/release/releases/download/V1.0.14/televyn-1.0.14.apk",
+  "release_notes": "🔧 1.0.14\n\n📺 Sidebar lecteur : liste des chaînes repositionnée au changement de bouquet\n🏠 Chaîne lancée depuis l'accueil : sidebar chaînes/bouquets et zap disponibles\n🕐 Paramètres → Mes playlists : date/heure de dernière mise à jour\n🧹 « Film au hasard » retiré",
   "min_supported_version_code": 1,
   "force_update": false
 }
