@@ -1,8 +1,8 @@
 {
-  "latest_version_name": "1.0.17",
-  "latest_version_code": 32,
-  "apk_url": "https://github.com/Televyn/release/releases/download/V1.0.17/televyn-1.0.17.apk",
-  "release_notes": "🛡️ 1.0.17 — Fin des blocages du fournisseur\n\n📺 La liste des chaînes interrogeait le serveur pour le programme « en cours » de chaque chaîne visible → des centaines de requêtes en navigant → blocage du compte (et donc films/synopsis en erreur).\n✅ Le programme « en cours » est maintenant lu depuis le guide déjà téléchargé, sans réinterroger le serveur.\nℹ️ Films encore en erreur ? Votre compte se débloque côté fournisseur, patientez un peu.",
+  "latest_version_name": "1.0.18",
+  "latest_version_code": 33,
+  "apk_url": "https://github.com/Televyn/release/releases/download/V1.0.18/televyn-1.0.18.apk",
+  "release_notes": "🐛 1.0.18 — Chaînes marquées « mortes » à tort\n\n📺 Le logo remplacé par un ⚠ après un échec de lecture : corrigé.\n• Logo toujours visible (⚠ = petit badge discret)\n• La chaîne perd son ⚠ dès qu'elle rejoue correctement\n• Un blocage temporaire du compte ne marque plus les chaînes mortes",
   "min_supported_version_code": 1,
   "force_update": false
 }
