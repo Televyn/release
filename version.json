@@ -1,8 +1,8 @@
 {
-  "latest_version_name": "1.0.11",
-  "latest_version_code": 26,
-  "apk_url": "https://github.com/Televyn/release/releases/download/V1.0.11/televyn-1.0.11.apk",
-  "release_notes": "🐛 Hotfix 1.0.11\n\n📺 Certaines séries affichaient une erreur JSON au lieu de la liste des épisodes — corrigé (toutes les variantes de réponses des fournisseurs sont acceptées)",
+  "latest_version_name": "1.0.12",
+  "latest_version_code": 27,
+  "apk_url": "https://github.com/Televyn/release/releases/download/V1.0.12/televyn-1.0.12.apk",
+  "release_notes": "✨ 1.0.12\n\n📺 Plein écran TV : GAUCHE ouvre la liste des chaînes, et GAUCHE à nouveau affiche les BOUQUETS — changez de bouquet sans quitter la vidéo (★ Favoris inclus)",
   "min_supported_version_code": 1,
   "force_update": false
 }
