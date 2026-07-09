@@ -1,8 +1,8 @@
 {
-  "latest_version_name": "1.0.12",
-  "latest_version_code": 27,
-  "apk_url": "https://github.com/Televyn/release/releases/download/V1.0.12/televyn-1.0.12.apk",
-  "release_notes": "✨ 1.0.12\n\n📺 Plein écran TV : GAUCHE ouvre la liste des chaînes, et GAUCHE à nouveau affiche les BOUQUETS — changez de bouquet sans quitter la vidéo (★ Favoris inclus)",
+  "latest_version_name": "1.0.13",
+  "latest_version_code": 28,
+  "apk_url": "https://github.com/Televyn/release/releases/download/V1.0.13/televyn-1.0.13.apk",
+  "release_notes": "🐛 Hotfix 1.0.13 — Bouquets dans le lecteur\n\n🎨 Nom du bouquet sélectionné à nouveau lisible\n🎮 GAUCHE depuis les chaînes revient sur le bouquet où vous étiez",
   "min_supported_version_code": 1,
   "force_update": false
 }
