@@ -1,8 +1,8 @@
 {
-  "latest_version_name": "1.0.19",
-  "latest_version_code": 34,
-  "apk_url": "https://github.com/Televyn/release/releases/download/V1.0.19/televyn-1.0.19.apk",
-  "release_notes": "✨ 1.0.19 — Gestion des playlists\n\n📝 Modifier une liste (nom, identifiant, mot de passe ou URL) via le nouveau bouton « Modifier » dans Paramètres → Mes playlists. La liste s'actualise automatiquement après l'enregistrement.\n🛡️ Une confirmation est demandée avant de supprimer une liste.\n📊 Après chaque actualisation, le nombre de contenus ajoutés / supprimés s'affiche sous chaque liste.",
+  "latest_version_name": "1.0.20",
+  "latest_version_code": 35,
+  "apk_url": "https://github.com/Televyn/release/releases/download/V1.0.20/televyn-1.0.20.apk",
+  "release_notes": "🛡️ 1.0.20 — Anti-blocage fournisseur\n\n🪪 Televyn s'identifie proprement auprès du fournisseur (User-Agent dédié) — l'identité générique « robot » qui déclenchait certains blocages a disparu.\n🎭 User-Agent personnalisable par playlist pour les fournisseurs qui n'acceptent qu'un player précis (ex : TiviMate).\n⏱️ Fréquence d'actualisation du catalogue réglable : 12 h / 24 h / 48 h / manuelle (Paramètres → Réseau).\n🔌 Maximum 2 connexions API simultanées + guide TV rafraîchi en différé : plus de pic de connexions au démarrage.",
   "min_supported_version_code": 1,
   "force_update": false
 }
