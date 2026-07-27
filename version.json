@@ -1,8 +1,8 @@
 {
-  "latest_version_name": "1.0.23",
-  "latest_version_code": 38,
-  "apk_url": "https://github.com/Televyn/release/releases/download/V1.0.23/televyn-1.0.23.apk",
-  "release_notes": "🎯 1.0.23 — Idées films & séries : des suggestions vraiment dans le genre demandé\n\n🎌 Fini les résultats hors sujet : le genre choisi (ex : Animé / Manga) n'est plus jamais abandonné, même s'il y a peu de titres.\n🧩 Genres combinables : cochez plusieurs genres (ex : Animé + Romance), le quiz cherche les titres qui les combinent.\n📚 Détection animé élargie : catégories manhwa / webtoon reconnues (Solo Leveling…).\n🔎 Pour un titre précis, passez par la Recherche du menu.",
+  "latest_version_name": "1.0.24",
+  "latest_version_code": 39,
+  "apk_url": "https://github.com/Televyn/release/releases/download/V1.0.24/televyn-1.0.24.apk",
+  "release_notes": "🌍 1.0.24 — Filtre langue dans Idées films & séries\n\n🗣️ Nouvelle question « Quelle langue ? » : VF, VOSTFR, Anglais, Espagnol, Italien, Allemand, Portugais, Arabe, Turc — ou peu importe.\n🔎 Langue détectée depuis le titre et la catégorie (« Naruto VF », « |FR| FILMS », « SERIES VOSTFR »…).\n🎯 Comme le genre, la langue choisie n'est jamais abandonnée par l'élargissement des filtres.",
   "min_supported_version_code": 1,
   "force_update": false
 }
