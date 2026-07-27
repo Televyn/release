@@ -1,8 +1,8 @@
 {
-  "latest_version_name": "1.0.21",
-  "latest_version_code": 36,
-  "apk_url": "https://github.com/Televyn/release/releases/download/V1.0.21/televyn-1.0.21.apk",
-  "release_notes": "✨ 1.0.21 — Idées films & séries, filmographies complètes, favoris rangés\n\n💡 « Idées de films » devient « Idées films & séries » : choisissez film, série ou les deux — les séries de votre playlist entrent dans les suggestions.\n🎭 Genres affinés : Thriller/Policier séparé de l'Horreur, ajout Guerre/Histoire et Documentaire.\n👤 La fiche d'un acteur/réalisateur affiche ses séries TV en plus de ses films, en sections séparées.\n⭐ Les favoris sont rangés par sections : Films, Séries, Chaînes TV.",
+  "latest_version_name": "1.0.22",
+  "latest_version_code": 37,
+  "apk_url": "https://github.com/Televyn/release/releases/download/V1.0.22/televyn-1.0.22.apk",
+  "release_notes": "✨ 1.0.22 — Favoris en onglets, quiz amélioré, textes retravaillés\n\n⭐ Les favoris s'organisent en onglets : Films / Séries / Chaînes TV, avec compteurs.\n💡 Idées films & séries : bouton « ← Retour » pour revenir à la question précédente sans refaire tout le quiz.\n🎌 Nouveau genre « Animé / Manga » dans le quiz.\n📝 Tous les textes de l'application ont été retravaillés pour plus de clarté.",
   "min_supported_version_code": 1,
   "force_update": false
 }
