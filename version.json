@@ -1,8 +1,8 @@
 {
-  "latest_version_name": "1.0.24",
-  "latest_version_code": 39,
-  "apk_url": "https://github.com/Televyn/release/releases/download/V1.0.24/televyn-1.0.24.apk",
-  "release_notes": "🌍 1.0.24 — Filtre langue dans Idées films & séries\n\n🗣️ Nouvelle question « Quelle langue ? » : VF, VOSTFR, Anglais, Espagnol, Italien, Allemand, Portugais, Arabe, Turc — ou peu importe.\n🔎 Langue détectée depuis le titre et la catégorie (« Naruto VF », « |FR| FILMS », « SERIES VOSTFR »…).\n🎯 Comme le genre, la langue choisie n'est jamais abandonnée par l'élargissement des filtres.",
+  "latest_version_name": "1.0.25",
+  "latest_version_code": 40,
+  "apk_url": "https://github.com/Televyn/release/releases/download/V1.0.25/televyn-1.0.25.apk",
+  "release_notes": "🌍 1.0.25 — Masquage par langue et premières traductions\n\n🚫 Paramètres → Catégories : un clic masque toutes les catégories d'une langue (arabe, turc…), un second les réaffiche.\n🗣️ Sélecteur de langue de l'app (Paramètres → Apparence) : 10 langues ou langue du système.\n📝 Premier lot de traductions (navigation, paramètres, favoris) — le reste arrive progressivement.\n🎬 Le quiz Idées reconnaît aussi le russe et le néerlandais.",
   "min_supported_version_code": 1,
   "force_update": false
 }
