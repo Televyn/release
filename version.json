@@ -1,8 +1,8 @@
 {
-  "latest_version_name": "1.0.25",
-  "latest_version_code": 40,
-  "apk_url": "https://github.com/Televyn/release/releases/download/V1.0.25/televyn-1.0.25.apk",
-  "release_notes": "🌍 1.0.25 — Masquage par langue et premières traductions\n\n🚫 Paramètres → Catégories : un clic masque toutes les catégories d'une langue (arabe, turc…), un second les réaffiche.\n🗣️ Sélecteur de langue de l'app (Paramètres → Apparence) : 10 langues ou langue du système.\n📝 Premier lot de traductions (navigation, paramètres, favoris) — le reste arrive progressivement.\n🎬 Le quiz Idées reconnaît aussi le russe et le néerlandais.",
+  "latest_version_name": "1.0.26",
+  "latest_version_code": 41,
+  "apk_url": "https://github.com/Televyn/release/releases/download/V1.0.26/televyn-1.0.26.apk",
+  "release_notes": "🧭 1.0.26 — Paramètres réorganisés, Guide TV corrigé\n\n🗣️ La langue a son propre onglet dans les Paramètres.\n🌐 Onglet Réseau réorganisé : actualisation et mode économique en haut, DNS/proxy en bas.\n☑️ Catégories : bouton « Tout sélectionner / Tout désélectionner ».\n📅 Guide TV : la navigation dans la grille ne saute plus lors des chargements ou sur les cases vides.\n🎨 Nouvelles icônes de l'application.",
   "min_supported_version_code": 1,
   "force_update": false
 }
