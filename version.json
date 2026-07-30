@@ -1,8 +1,8 @@
 {
-  "latest_version_name": "1.0.26",
-  "latest_version_code": 41,
-  "apk_url": "https://github.com/Televyn/release/releases/download/V1.0.26/televyn-1.0.26-update.apk",
-  "release_notes": "🧭 1.0.26 — Paramètres réorganisés, Guide TV corrigé\n\n🗣️ La langue a son propre onglet dans les Paramètres.\n🌐 Onglet Réseau réorganisé : actualisation et mode économique en haut, DNS/proxy en bas.\n☑️ Catégories : bouton « Tout sélectionner / Tout désélectionner ».\n📅 Guide TV : la navigation dans la grille ne saute plus lors des chargements ou sur les cases vides.\n🎨 Nouvelles icônes de l'application.",
+  "latest_version_name": "1.0.27",
+  "latest_version_code": 42,
+  "apk_url": "https://github.com/Televyn/release/releases/download/V1.0.27/televyn-1.0.27-update.apk",
+  "release_notes": "🌍 1.0.27 — Le quiz Idées parle 10 langues\n\n📝 Le quiz « Idées films & séries » est entièrement traduit (questions, genres, langues, résultats) dans les 10 langues de l'application.\n🗣️ Choisissez votre langue dans Paramètres → Langue. La traduction des écrans restants arrive progressivement.",
   "min_supported_version_code": 1,
   "force_update": false
 }
