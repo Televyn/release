@@ -1,6 +1,6 @@
 {
-  "latest_version_name": "1.0.29",
-  "latest_version_code": 44,
-  "apk_url": "https://github.com/Televyn/release/releases/download/V1.0.29/televyn-1.0.29-update.apk",
-  "release_notes": "🎛️ Mémoire tampon configurable (Réglages > Lecteur)\n\n📡 Tampon Live TV : en cas de saccades ou micro-coupures sur les chaînes en direct, choisissez 5 à 30 s de tampon — démarrage un peu plus lent, lecture stable.\n\n🎬 Pré-chargement Films & Séries : jusqu'à 3 minutes de vidéo téléchargées en avance pour lisser les serveurs irréguliers, sans ralentir le démarrage."
+  "latest_version_name": "1.0.30",
+  "latest_version_code": 45,
+  "apk_url": "https://github.com/Televyn/release/releases/download/V1.0.30/televyn-1.0.30-update.apk",
+  "release_notes": "🛡️ Mise à jour automatique résiliente : en cas de panne du serveur d'annonce (comme celle de GitHub le 6 août), l'app trouve la dernière version par un canal de secours.\n\n🎛️ Mémoire tampon configurable (Réglages > Lecteur) :\n📡 Tampon Live TV (5-30 s) contre les saccades et micro-coupures en direct\n🎬 Pré-chargement Films & Séries (jusqu'à 3 min) pour lisser les serveurs irréguliers"
 }
