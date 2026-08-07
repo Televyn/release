@@ -1,6 +1,6 @@
 {
-  "latest_version_name": "1.0.32",
-  "latest_version_code": 47,
-  "apk_url": "https://github.com/Televyn/release/releases/download/V1.0.32/televyn-1.0.32-update.apk",
-  "release_notes": "📱 Televyn arrive sur smartphone et tablette ! Le même APK s'installe aussi sur votre téléphone Android : paysage plein écran automatique, boutons et lecteur pilotables au doigt.\n\n🎛️ Aussi dans cette mise à jour :\n📡 Mémoire tampon Live TV configurable (5-30 s) contre les saccades (Réglages > Lecteur)\n🎬 Pré-chargement Films & Séries (jusqu'à 3 min) pour les serveurs irréguliers\n🛡️ Mise à jour automatique résiliente en cas de panne du serveur d'annonce"
+  "latest_version_name": "1.0.33",
+  "latest_version_code": 48,
+  "apk_url": "https://github.com/Televyn/release/releases/download/V1.0.33/televyn-1.0.33-update.apk",
+  "release_notes": "📱 Televyn arrive sur smartphone et tablette ! Le même APK s'installe aussi sur votre téléphone Android : paysage plein écran, boutons, navigation et lecteur pilotables au doigt, bouquets toujours visibles.\n\n🎛️ Aussi dans cette mise à jour :\n📡 Mémoire tampon Live TV configurable (5-30 s) contre les saccades (Réglages > Lecteur)\n🎬 Pré-chargement Films & Séries (jusqu'à 3 min) pour les serveurs irréguliers\n🛡️ Mise à jour automatique résiliente en cas de panne du serveur d'annonce"
 }
