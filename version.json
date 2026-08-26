@@ -1,6 +1,6 @@
 {
-  "latest_version_name": "1.0.36",
-  "latest_version_code": 51,
-  "apk_url": "https://github.com/Televyn/release/releases/download/V1.0.36/televyn-1.0.36-update.apk",
-  "release_notes": "🏠 Accueil repensé : les raccourcis redondants disparaissent, place au contenu.\n\n🔥 Deux nouvelles rangées « Top 20 séries » et « Top 20 films » du moment sur Netflix, Prime Video, Disney+, Paramount+, Apple TV+ et Max, sous « Reprendre la lecture ».\n\n✅ Badge vert « Inclus » sur les titres présents dans votre abonnement — un clic ouvre directement la fiche du film ou de la série."
+  "latest_version_name": "1.0.37",
+  "latest_version_code": 52,
+  "apk_url": "https://github.com/Televyn/release/releases/download/V1.0.37/televyn-1.0.37-update.apk",
+  "release_notes": "📊 Statistiques par profil : l'écran « Qui regarde ? » affiche désormais un badge « % d'utilisation » et les compteurs (films, épisodes, chaînes) sur chaque profil.\n\n🏆 Nouvel écran « Statistiques » : classement des profils, répartition du temps de visionnage, et le détail de chacun (temps passé, films terminés, séries, épisodes, chaînes, dernière utilisation).\n\n⏪ Replay réparé : sur un programme déjà diffusé, ◀▶ avancent et reculent enfin, au pas choisi dans Réglages > Lecteur, avec la barre chronologique du programme."
 }
