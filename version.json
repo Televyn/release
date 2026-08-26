@@ -1,6 +1,6 @@
 {
-  "latest_version_name": "1.0.38",
-  "latest_version_code": 53,
-  "apk_url": "https://github.com/Televyn/release/releases/download/V1.0.38/televyn-1.0.38-update.apk",
-  "release_notes": "🧭 Écran Statistiques : la navigation est réparée — en remontant depuis le bas, la page défile de nouveau jusqu'en haut au lieu de sauter directement sur « Retour ».\n\n📈 Le « % » de chaque profil correspond maintenant à la part des contenus réellement lancés, et non plus aux ouvertures de l'app : les badges ne disparaissent plus après avoir sélectionné un profil.\n\n⚠️ Une confirmation est demandée avant de remettre les compteurs à zéro."
+  "latest_version_name": "1.0.39",
+  "latest_version_code": 54,
+  "apk_url": "https://github.com/Televyn/release/releases/download/V1.0.39/televyn-1.0.39-update.apk",
+  "release_notes": "🏆 Le palmarès de chaque profil : dans l'écran Statistiques, sélectionnez un profil pour voir ses films et ses séries classés du plus revu au moins revu.\n\n🎬 Pochettes à l'appui, avec le nombre de fois que chaque titre a été lancé (×3), le nombre d'épisodes vus par série, et un badge de rang sur le podium.\n\n⏱ Le compteur de lectures démarre avec cette version : ce que vous avez déjà regardé compte pour une lecture, les suivantes s'ajoutent au fil du temps."
 }
