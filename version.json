@@ -1,6 +1,6 @@
 {
-  "latest_version_name": "1.0.39",
-  "latest_version_code": 54,
-  "apk_url": "https://github.com/Televyn/release/releases/download/V1.0.39/televyn-1.0.39-update.apk",
-  "release_notes": "🏆 Le palmarès de chaque profil : dans l'écran Statistiques, sélectionnez un profil pour voir ses films et ses séries classés du plus revu au moins revu.\n\n🎬 Pochettes à l'appui, avec le nombre de fois que chaque titre a été lancé (×3), le nombre d'épisodes vus par série, et un badge de rang sur le podium.\n\n⏱ Le compteur de lectures démarre avec cette version : ce que vous avez déjà regardé compte pour une lecture, les suivantes s'ajoutent au fil du temps."
+  "latest_version_name": "1.0.40",
+  "latest_version_code": 55,
+  "apk_url": "https://github.com/Televyn/release/releases/download/V1.0.40/televyn-1.0.40-update.apk",
+  "release_notes": "🔎 La recherche gagne deux onglets : tapez un nom d'acteur ou de réalisateur pour ouvrir sa filmographie, avec ce qui est disponible dans votre playlist.\n\n🇫🇷 Les titres du Top Netflix, Disney+ & co s'ouvrent maintenant sur la version française quand votre playlist la propose, au lieu de partir en VO.\n\n📊 Dans le palmarès d'un profil (écran Statistiques), appuyez sur une pochette pour relancer le film ou reprendre la série là où vous en étiez.\n\n🎞 Fiche série réorganisée : le sélecteur de saison est juste sous l'affiche au lieu d'être enterré sous le casting, et ◀ depuis un épisode y remonte d'un coup.\n\n⭐ Les notes des films similaires s'affichent enfin sur 10, comme partout ailleurs dans l'app."
 }
