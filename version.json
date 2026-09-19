@@ -1,6 +1,6 @@
 {
-  "latest_version_name": "1.0.40",
-  "latest_version_code": 55,
-  "apk_url": "https://github.com/Televyn/release/releases/download/V1.0.40/televyn-1.0.40-update.apk",
-  "release_notes": "🔎 La recherche gagne deux onglets : tapez un nom d'acteur ou de réalisateur pour ouvrir sa filmographie, avec ce qui est disponible dans votre playlist.\n\n🇫🇷 Les titres du Top Netflix, Disney+ & co s'ouvrent maintenant sur la version française quand votre playlist la propose, au lieu de partir en VO.\n\n📊 Dans le palmarès d'un profil (écran Statistiques), appuyez sur une pochette pour relancer le film ou reprendre la série là où vous en étiez.\n\n🎞 Fiche série réorganisée : le sélecteur de saison est juste sous l'affiche au lieu d'être enterré sous le casting, et ◀ depuis un épisode y remonte d'un coup.\n\n⭐ Les notes des films similaires s'affichent enfin sur 10, comme partout ailleurs dans l'app."
+  "latest_version_name": "1.0.41",
+  "latest_version_code": 56,
+  "apk_url": "https://github.com/Televyn/release/releases/download/V1.0.41/televyn-1.0.41-update.apk",
+  "release_notes": "📡 Coupure en pleine chaîne ? Le lecteur se reconnecte tout seul (jusqu'à 5 essais) au lieu d'afficher « Erreur de lecture ». Une micro-coupure Wi-Fi ne montre plus qu'un court chargement, et la chaîne n'est plus marquée ⚠ à tort.\n\n📺 Télécommande de la TV (HDMI-CEC) : on peut enfin sortir d'un champ de saisie avec ▲▼ et atteindre les résultats de recherche. OK ouvre le clavier. Corrigé sur tous les champs de l'app.\n\n🏆 Top plateformes refait : les films passent au-dessus des séries, 12 plateformes au lieu de 6 (Canal+, Crunchyroll, ADN, TF1+, M6+ et Arte en plus) et le vrai Top 10 de chacune, à dérouler vers la droite. Le classement suit les tendances de la semaine, fini les vieilles séries fleuves en n°1.\n\n🗓 Nouveau : les rangées « À venir » sous les Top — prochaines sorties cinéma et VOD, nouvelles séries, avec la date sur l'affiche.\n\n🇫🇷 Un titre proposé s'ouvre toujours en version française, et en qualité normale plutôt qu'en 4K/UHD quand les deux existent."
 }
