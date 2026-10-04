@@ -1,6 +1,6 @@
 {
-  "latest_version_name": "1.0.47",
-  "latest_version_code": 62,
-  "apk_url": "https://github.com/Televyn/release/releases/download/V1.0.47/televyn-1.0.47-update.apk",
-  "release_notes": "🛠 Correctif fiches film et série : les boutons ne s'écrivent plus en vertical (« Retour » notamment), ils passent à la ligne quand la place manque, et le casting est de nouveau visible sous le synopsis."
+  "latest_version_name": "1.0.48",
+  "latest_version_code": 63,
+  "apk_url": "https://github.com/Televyn/release/releases/download/V1.0.48/televyn-1.0.48-update.apk",
+  "release_notes": "🎭 Fiche série : le casting revient en haut de la fiche, juste au-dessus des saisons. Les séries similaires restent en bas, sous les épisodes."
 }
