@@ -1,6 +1,6 @@
 {
-  "latest_version_name": "1.0.46",
-  "latest_version_code": 61,
-  "apk_url": "https://github.com/Televyn/release/releases/download/V1.0.46/televyn-1.0.46-update.apk",
-  "release_notes": "🔒 Sécurité renforcée : pour la connexion depuis le téléphone, le code est caché dans le QR code et la TV vous demande de confirmer avec la télécommande avant d'ajouter la playlist reçue. Vos identifiants IPTV ne sont plus jamais écrits dans les journaux de diagnostic, ni copiés lors d'un transfert vers un nouvel appareil.\n\n▶️ Just Player et mpv sont maintenant bien détectés comme lecteurs externes."
+  "latest_version_name": "1.0.47",
+  "latest_version_code": 62,
+  "apk_url": "https://github.com/Televyn/release/releases/download/V1.0.47/televyn-1.0.47-update.apk",
+  "release_notes": "🛠 Correctif fiches film et série : les boutons ne s'écrivent plus en vertical (« Retour » notamment), ils passent à la ligne quand la place manque, et le casting est de nouveau visible sous le synopsis."
 }
