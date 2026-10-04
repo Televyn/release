@@ -1,6 +1,6 @@
 {
-  "latest_version_name": "1.0.42",
-  "latest_version_code": 57,
-  "apk_url": "https://github.com/Televyn/release/releases/download/V1.0.42/televyn-1.0.42-update.apk",
-  "release_notes": "🧑‍🎨 Avatars de profil : la recherche d'image s'élargit. En plus des Pokémon et des mangas, vous trouvez maintenant les super-héros Marvel, DC et Star Wars, les acteurs et actrices, les artistes de musique et les personnalités (sportifs, chanteurs…). Les résultats s'affichent par sections, au fur et à mesure.\n\n🏆 Accueil : les Top 10 films et séries apparaissent en une à deux secondes au lieu d'attendre la vérification de tout votre catalogue, et les rangées « À venir » restent bien en dessous.\n\n▶️ « Reprendre la lecture » : cartes plus petites sur cette rangée, pour laisser plus de place aux Top."
+  "latest_version_name": "1.0.43",
+  "latest_version_code": 58,
+  "apk_url": "https://github.com/Televyn/release/releases/download/V1.0.43/televyn-1.0.43-update.apk",
+  "release_notes": "🎬 Lecture plus stable : les erreurs de codec en pleine lecture se relancent toutes seules, et le décodeur vidéo matériel de la box est toujours privilégié — fini les saccades dues au décodage logiciel.\n\n📺 Moins de freezes en direct : après une coupure du flux, Televyn se garde une réserve un peu plus grande à chaque fois, pour que les freezes ne s'enchaînent plus.\n\n🗂 Fiches film et série plus compactes : plus de vide sous le synopsis, les saisons et les épisodes arrivent tout de suite, et « Continuer » est rangé à côté de Favori et Retour."
 }
