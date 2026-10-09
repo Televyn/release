@@ -1,6 +1,6 @@
 {
-  "latest_version_name": "1.0.50",
-  "latest_version_code": 65,
-  "apk_url": "https://github.com/Televyn/release/releases/download/V1.0.50/televyn-1.0.50-update.apk",
-  "release_notes": "📶 Réglages > Réseau : nouveau test de débit, pour savoir si les coupures viennent de votre connexion ou du serveur de votre fournisseur.\n🧭 Réglages > Réseau rangé en 4 rubriques, liste des DNS repliée.\n⌨️ Le clavier ne s'ouvre plus tout seul en passant sur un champ : appuyez sur OK."
+  "latest_version_name": "1.0.51",
+  "latest_version_code": 66,
+  "apk_url": "https://github.com/Televyn/release/releases/download/V1.0.51/televyn-1.0.51-update.apk",
+  "release_notes": "📊 Lecteur : affiche le débit réellement reçu de votre fournisseur, à côté du débit de votre ligne (en direct : en haut à droite 10 s au lancement ; films et séries : touche ▼).\n🌐 Réglages > Réseau : Google retiré de la liste des DNS."
 }
