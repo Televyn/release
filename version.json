@@ -1,6 +1,6 @@
 {
-  "latest_version_name": "1.0.53",
-  "latest_version_code": 68,
-  "apk_url": "https://github.com/Televyn/release/releases/download/V1.0.53/televyn-1.0.53-update.apk",
-  "release_notes": "📊 Lecteur : en direct, la pastille de débit réapparaît à chaque coupure et compte les coupures de la chaîne.\n🌍 Réglages traduits dans les 9 autres langues de l'app."
+  "latest_version_name": "1.0.54",
+  "latest_version_code": 69,
+  "apk_url": "https://github.com/Televyn/release/releases/download/V1.0.54/televyn-1.0.54-update.apk",
+  "release_notes": "📺 Lecteur : en direct, les coupures sont bien plus courtes (reprise en 1 à 2 s) et Televyn se reconnecte tout seul si le serveur coupe la chaîne.\n💬 Messages d'erreur clairs : ce qui se passe et quoi faire.\n🎨 Thèmes embellis : motif de fond discret et dégradés."
 }
