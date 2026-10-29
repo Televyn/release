@@ -1,6 +1,6 @@
 {
-  "latest_version_name": "1.0.55",
-  "latest_version_code": 70,
-  "apk_url": "https://github.com/Televyn/release/releases/download/V1.0.55/televyn-1.0.55-update.apk",
-  "release_notes": "⭐ Chaînes favorites : nouveau dossier « ★ Favoris » (et « Historique ») en haut des chaînes TV ; l'onglet Favoris garde films et séries.\n🎮 Maintenir OK sur une chaîne l'ajoute de nouveau aux favoris, quelle que soit la télécommande (raccourci : touche Menu)."
+  "latest_version_name": "1.0.56",
+  "latest_version_code": 71,
+  "apk_url": "https://github.com/Televyn/release/releases/download/V1.0.56/televyn-1.0.56-update.apk",
+  "release_notes": "⭐ Favoris des chaînes : dans TV en direct, appuyez sur ▶ depuis une chaîne puis sur « ☆ Ajouter aux favoris ». Marche avec toutes les télécommandes, y compris celle du téléviseur (raccourci : touche jaune)."
 }
