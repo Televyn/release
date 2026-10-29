@@ -1,6 +1,6 @@
 {
-  "latest_version_name": "1.0.54",
-  "latest_version_code": 69,
-  "apk_url": "https://github.com/Televyn/release/releases/download/V1.0.54/televyn-1.0.54-update.apk",
-  "release_notes": "📺 Lecteur : en direct, les coupures sont bien plus courtes (reprise en 1 à 2 s) et Televyn se reconnecte tout seul si le serveur coupe la chaîne.\n💬 Messages d'erreur clairs : ce qui se passe et quoi faire.\n🎨 Thèmes embellis : motif de fond discret et dégradés."
+  "latest_version_name": "1.0.55",
+  "latest_version_code": 70,
+  "apk_url": "https://github.com/Televyn/release/releases/download/V1.0.55/televyn-1.0.55-update.apk",
+  "release_notes": "⭐ Chaînes favorites : nouveau dossier « ★ Favoris » (et « Historique ») en haut des chaînes TV ; l'onglet Favoris garde films et séries.\n🎮 Maintenir OK sur une chaîne l'ajoute de nouveau aux favoris, quelle que soit la télécommande (raccourci : touche Menu)."
 }
