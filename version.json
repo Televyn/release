@@ -1,6 +1,6 @@
 {
-  "latest_version_name": "1.0.59",
-  "latest_version_code": 74,
-  "apk_url": "https://github.com/Televyn/release/releases/download/V1.0.59/televyn-1.0.59-update.apk",
-  "release_notes": "🎬 Films et séries : navigation plus fluide — la grille ne bouge plus en passant des catégories aux affiches, plus de liste qui se déroule en changeant de catégorie, et ▶ ramène sur l'affiche où vous étiez."
+  "latest_version_name": "1.0.60",
+  "latest_version_code": 75,
+  "apk_url": "https://github.com/Televyn/release/releases/download/V1.0.60/televyn-1.0.60-update.apk",
+  "release_notes": "🎬 Films et séries : en parcourant les catégories, les premières affiches restent visibles — la grille glisse à côté de la liste au lieu d'être recouverte."
 }
