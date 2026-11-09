@@ -1,6 +1,6 @@
 {
-  "latest_version_name": "1.0.62",
-  "latest_version_code": 77,
-  "apk_url": "https://github.com/Televyn/release/releases/download/V1.0.62/televyn-1.0.62-update.apk",
-  "release_notes": "⚡ Zapping plus rapide : jusqu'à près d'une seconde gagnée à chaque changement de chaîne.\n📊 Le débit de la chaîne s'affiche dès son ouverture."
+  "latest_version_name": "1.0.63",
+  "latest_version_code": 78,
+  "apk_url": "https://github.com/Televyn/release/releases/download/V1.0.63/televyn-1.0.63-update.apk",
+  "release_notes": "⭐ Favoris : ordre d'ajout conservé, boutons Monter / Descendre, et vous restez où vous étiez après un ajout.\n📺 Nouvelle option Réglages > Lecteur « Adapter l'écran à la chaîne » pour des images plus fluides sur TF1, M6… en Full HD."
 }
