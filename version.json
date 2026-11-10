@@ -1,6 +1,6 @@
 {
-  "latest_version_name": "1.0.63",
-  "latest_version_code": 78,
-  "apk_url": "https://github.com/Televyn/release/releases/download/V1.0.63/televyn-1.0.63-update.apk",
-  "release_notes": "⭐ Favoris : ordre d'ajout conservé, boutons Monter / Descendre, et vous restez où vous étiez après un ajout.\n📺 Nouvelle option Réglages > Lecteur « Adapter l'écran à la chaîne » pour des images plus fluides sur TF1, M6… en Full HD."
+  "latest_version_name": "1.0.64",
+  "latest_version_code": 79,
+  "apk_url": "https://github.com/Televyn/release/releases/download/V1.0.64/televyn-1.0.64-update.apk",
+  "release_notes": "🛠️ Televyn 1.0.64\n\n🌐 Test IPv4 / IPv6 : détecte désormais un VPN actif sur la box (appli VPN, bloqueur de pubs, gestionnaire DNS) qui empêche l'IPv6, au lieu de parler d'« adresse locale »\n📺 CH+ / CH- fonctionnent aussi sur une chaîne lancée depuis « Reprendre la lecture » ou la recherche\n🖼️ TV en direct : l'aperçu de la chaîne n'est plus coupé ni caché par le bouton Favoris\n✨ Sélection plus nette : fini le rectangle sombre sur l'élément sélectionné (réglages, chaînes, guide)\n📖 Guide : certains titres de programmes s'affichaient en code illisible, corrigé\n🎬 Films / Séries : ▶ au bout d'une ligne ne saute plus vers la recherche\n⚙️ Réglages : boutons « Actualiser » / « + Ajouter » bien affichés\n\n💡 Astuce fluidité : Réglages > Lecteur > « Adapter l'écran à la chaîne » supprime les à-coups des chaînes à 25/50 images par seconde.\n"
 }
