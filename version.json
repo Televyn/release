@@ -1,6 +1,6 @@
 {
-  "latest_version_name": "1.0.67",
-  "latest_version_code": 82,
-  "apk_url": "https://github.com/Televyn/release/releases/download/V1.0.67/televyn-1.0.67-update.apk",
-  "release_notes": "🛡️ DNS sécurisé : Cloudflare, Quad9 et OpenDNS retirés (ils bloquent des sites en France ou n'y répondent plus) ; si vous utilisiez l'un d'eux, Televyn passe automatiquement sur NextDNS\n⚡ Nouveaux DNS rapides et non filtrés : Control D, AdGuard non filtré, Wikimedia DNS, Digitale Gesellschaft, Freifunk München"
+  "latest_version_name": "1.0.68",
+  "latest_version_code": 83,
+  "apk_url": "https://github.com/Televyn/release/releases/download/V1.0.68/televyn-1.0.68-update.apk",
+  "release_notes": "🛡️ DNS sécurisé : DNS.SB retiré (il ne trouvait pas certains serveurs IPTV) ; si vous l'utilisiez, Televyn passe automatiquement sur NextDNS"
 }
