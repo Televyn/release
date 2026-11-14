@@ -1,6 +1,6 @@
 {
-  "latest_version_name": "1.0.68",
-  "latest_version_code": 83,
-  "apk_url": "https://github.com/Televyn/release/releases/download/V1.0.68/televyn-1.0.68-update.apk",
-  "release_notes": "🛡️ DNS sécurisé : DNS.SB retiré (il ne trouvait pas certains serveurs IPTV) ; si vous l'utilisiez, Televyn passe automatiquement sur NextDNS"
+  "latest_version_name": "1.0.69",
+  "latest_version_code": 84,
+  "apk_url": "https://github.com/Televyn/release/releases/download/V1.0.69/televyn-1.0.69-update.apk",
+  "release_notes": "▶️ Vos films, épisodes en cours et votre dernière chaîne apparaissent dans la rangée « Reprendre » de l'accueil Android TV (et des launchers comme Lounge ou Projectivy) : un clic reprend la lecture là où vous l'aviez laissée, dans le bon profil"
 }
