@@ -1,6 +1,6 @@
 {
-  "latest_version_name": "1.0.75",
-  "latest_version_code": 90,
-  "apk_url": "https://github.com/Televyn/release/releases/download/V1.0.75/televyn-1.0.75-update.apk",
-  "release_notes": "🔢 Zapping par numéro : tapez le numéro de la chaîne avec les touches 0-9\n⏰ Enregistrement programmé : OK sur un programme à venir dans le guide, à retrouver dans l'onglet Enregistrements\n⏸ Pause du direct (à activer dans Paramètres > Lecteur) : mettez une chaîne en pause, revenez 30 s en arrière\n😍 Notez aussi les séries"
+  "latest_version_name": "1.0.76",
+  "latest_version_code": 91,
+  "apk_url": "https://github.com/Televyn/release/releases/download/V1.0.76/televyn-1.0.76-update.apk",
+  "release_notes": "⏸ Pause du direct : reculer ou avancer n'est plus compté comme une coupure réseau"
 }
