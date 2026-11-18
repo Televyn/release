@@ -1,6 +1,6 @@
 {
-  "latest_version_name": "1.0.70",
-  "latest_version_code": 85,
-  "apk_url": "https://github.com/Televyn/release/releases/download/V1.0.70/televyn-1.0.70-update.apk",
-  "release_notes": "📋 Listes M3U : ajoutez une playlist par URL M3U (chaînes, films, groupes)\n⏺ Enregistrement : en direct, ▶ puis « Enregistrer cette chaîne » — copie exacte du direct, à retrouver dans Paramètres > Stockage\n🎮 Télécommande configurable : choisissez l'action de chaque touche (Paramètres > Lecteur)\n✨ « Pour vous » : des suggestions de films sur l'accueil, calculées sur votre box\n😍 Notez les films (Coup de cœur, Bon film, Bof, Navet) : appui long sur une affiche ou bouton « Noter » — vos avis affinent « Pour vous »\n❓ Nouvel onglet Aide dans les Paramètres"
+  "latest_version_name": "1.0.71",
+  "latest_version_code": 86,
+  "apk_url": "https://github.com/Televyn/release/releases/download/V1.0.71/televyn-1.0.71-update.apk",
+  "release_notes": "⚡ Lancement d'un film ou d'une chaîne : avec « Adapter l'écran à la chaîne », l'image ne se coupe plus quelques secondes après le début — l'écran se règle pendant le chargement\n⏺ Nouvel onglet « Enregistrements » dans le menu\n🎮 Navigation : le focus arrive sur « Reprendre la lecture », et ◀ ramène toujours sur l'onglet en cours\n✨ Accueil plus propre : titres sans « |FR| », suggestions « Pour vous » sans doublons\n🚀 Grilles Films / Séries plus fluides"
 }
