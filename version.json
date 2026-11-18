@@ -1,6 +1,6 @@
 {
-  "latest_version_name": "1.0.73",
-  "latest_version_code": 88,
-  "apk_url": "https://github.com/Televyn/release/releases/download/V1.0.73/televyn-1.0.73-update.apk",
-  "release_notes": "🔒 Contrôle parental : protégez un profil par un code à 4 chiffres (demandé pour y entrer et pour le modifier)\n👶 Profil enfant : pas d'accès aux Paramètres sans le code d'un adulte — l'adulte y choisit les bouquets visibles\n🗑 Supprimer un profil demande maintenant une confirmation"
+  "latest_version_name": "1.0.74",
+  "latest_version_code": 89,
+  "apk_url": "https://github.com/Televyn/release/releases/download/V1.0.74/televyn-1.0.74-update.apk",
+  "release_notes": "🔒 Profil enfant : les Paramètres se reverrouillent dès qu'on en sort — le code d'un adulte est redemandé à chaque fois"
 }
