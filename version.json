@@ -1,6 +1,6 @@
 {
-  "latest_version_name": "1.0.76",
-  "latest_version_code": 91,
-  "apk_url": "https://github.com/Televyn/release/releases/download/V1.0.76/televyn-1.0.76-update.apk",
-  "release_notes": "⏸ Pause du direct : reculer ou avancer n'est plus compté comme une coupure réseau"
+  "latest_version_name": "2.0.0",
+  "latest_version_code": 92,
+  "apk_url": "https://github.com/Televyn/release/releases/download/V2.0.0/televyn-2.0.0-update.apk",
+  "release_notes": "Televyn 2.0 : nouvelle interface (mur d'affiches, roue des chaînes, nouvel accueil, styles de police)\nChaînes en double regroupées, bascule automatique si une source tombe, zapping plus rapide\nGuide TV corrigé : il se charge maintenant en entier\nTextes revus et traduits"
 }
