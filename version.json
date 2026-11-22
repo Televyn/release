@@ -1,6 +1,6 @@
 {
-  "latest_version_name": "2.0.1",
-  "latest_version_code": 93,
-  "apk_url": "https://github.com/Televyn/release/releases/download/V2.0.1/televyn-2.0.1-update.apk",
-  "release_notes": "Dix vues pour les films et séries (Néon, Écran courbe, Hologramme, Grille d'origine…)\nSept styles de police, taille des titres, huit nouveaux thèmes\nAccueil et titres longs : plus rien de coupé\nCorrections de navigation"
+  "latest_version_name": "2.0.2",
+  "latest_version_code": 94,
+  "apk_url": "https://github.com/Televyn/release/releases/download/V2.0.2/televyn-2.0.2-update.apk",
+  "release_notes": "Fiche série : trois présentations des épisodes, dont « Rangée + »\nSept vues pour les listes de films et séries\nApparence réorganisée, avec aperçu avant de valider"
 }
